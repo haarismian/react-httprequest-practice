@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Just a super quick and dirty app while trying to nail down how to answer interview questions
 
 In the project directory, you can run:
 
@@ -66,5 +64,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # react-httprequest-practice
+
 # react-httprequest-practice
